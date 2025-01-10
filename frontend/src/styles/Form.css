@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+}
+
+.formInput{
+    padding: 10px 100px 10px 10px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+
+.submit{
+    margin: 10px;
+    border: none;
+}
+
+.submit:hover{
+    cursor: pointer;
+}
